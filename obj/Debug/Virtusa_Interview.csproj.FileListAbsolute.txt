@@ -1,0 +1,10 @@
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\bin\Debug\Virtusa_Interview.exe.config
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\bin\Debug\Virtusa_Interview.exe
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\bin\Debug\Virtusa_Interview.pdb
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\obj\Debug\Virtusa_Interview.csproj.CoreCompileInputs.cache
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\obj\Debug\Virtusa_Interview.exe
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\obj\Debug\Virtusa_Interview.pdb
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\obj\Debug\Virtusa_Interview.csproj.CopyComplete
+C:\Users\c-rohit.singh\source\repos\Virtusa_Interview\Virtusa_Interview\obj\Debug\Virtusa_Interview.csproj.AssemblyReference.cache
